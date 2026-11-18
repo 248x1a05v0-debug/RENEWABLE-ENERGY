@@ -1,0 +1,6 @@
+{
+  "name": "GREENPOWER",
+  "description": "Smart Renewable Energy Awareness & Conservation Platform for Srinivasaraopeta, Guntur District, Andhra Pradesh (CSP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
